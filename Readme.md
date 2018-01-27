@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/willianhol/controle-robos.svg?branch=master)](https://travis-ci.org/willianhol/controle-robos)
+
+
 # Desafio
  * Controle remoto de um robo.
  Através de uma string simples é possível o controle do robo que pode andar, rotacionar 90 graus para esquerda ou direita.
@@ -6,7 +9,6 @@
 # Tecnologias
     * Spring boot
     * Junit
-    
     
     
 
